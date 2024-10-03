@@ -1,6 +1,5 @@
 # Jikun Yang
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jikun-yang-35657b26b)  
 Email: [jikun@student.unimelb.edu.au](mailto:jikun@student.unimelb.edu.au) | [wlyjk123456@gmail.com](mailto:wlyjk123456@gmail.com)
 
 ## 👋 About Me
@@ -9,14 +8,11 @@ Hi! I'm Jikun Yang, a Master's student in Information Technology at The Universi
 ## 🏫 Education
 - **Master of Information Technology**  
   *The University of Melbourne*  
-  *Jun 2022 - Present*  
-  - WAP: 77
-  - Relevant coursework: Database Systems & Information Modelling, AI Planning for Autonomy, Statistical Machine Learning, and Information Visualisation
-
+  *Jun 2022 - Oct 2024*  
+ 
 - **Bachelor of Civil Engineering**  
   *Central South University*  
   *Jul 2018 - Jul 2022*  
-  - Research project on Real Estate Prices and Transaction Volumes using Web Search Data
 
 ## 💼 Experience
 ### Civil Engineering Intern  
